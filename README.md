@@ -12,12 +12,11 @@ Nous sommes heureux de partager avec vous quelques captures d'écran de notre pr
 
 
 ## Screenshots
+![extension](https://github.com/DjihaneB/projet-collectif---extension-de-navigateur-choco_team/assets/123997026/8ea79903-7542-4541-bab5-162cf822efb0)
 
-![App Screenshot no city selected](image/extension.png)
+![extension_paris](https://github.com/DjihaneB/projet-collectif---extension-de-navigateur-choco_team/assets/123997026/0a16699e-5f60-4600-b797-3577abc85b4f)
 
-![App Screenshot Paris](image/extension_paris.png)
-
-![App Screenshot New York](image/extension_new_york.png)
+![extension_new_york](https://github.com/DjihaneB/projet-collectif---extension-de-navigateur-choco_team/assets/123997026/4ef66196-c780-4152-9afa-550e61b73c58)
 
 
 ## Descriptif
