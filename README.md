@@ -29,6 +29,6 @@ En raison de contraintes de temps, nous avons pu développer uniquement une exte
 
 Je souhaite exprimer ma gratitude envers mes deux collègues qui ont contribué à la réalisation de ce projet.
 
-[Nosy Rabia](https://github.com/noosyrabia) et [Djihane B](https://github.com/DjihaneB)
+[Nosy Rabia](https://github.com/noosyrabia) et [guillaume pages](https://github.com/guillaume-pages)
 
 
